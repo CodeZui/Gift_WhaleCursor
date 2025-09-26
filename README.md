@@ -1,1 +1,1 @@
-# Gift_WhaleCursor
+# Whale Cursor Animation 🐳
